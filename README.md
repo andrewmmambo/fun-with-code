@@ -1,2 +1,1 @@
-# fun-with-code
-School assignments, projects and my resume portfolio website.
+# Software Development and Implementation in Python projects.
